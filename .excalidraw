@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "text",
-      "version": 83,
-      "versionNonce": 1881889500,
+      "version": 84,
+      "versionNonce": 1197410269,
       "isDeleted": false,
       "id": "nP3XC8KVYEOjrJ0n5V3yz",
       "fillStyle": "hachure",
@@ -26,7 +26,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1701198465531,
+      "updated": 1701200396529,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -37,7 +37,7 @@
       "containerId": null,
       "originalText": "Character{\n    name\n    skillset\n    votes\n    image url\n    background\n    nickName\n",
       "lineHeight": 1.25,
-      "baseline": 192
+      "baseline": 193
     },
     {
       "type": "rectangle",
@@ -378,8 +378,8 @@
     },
     {
       "type": "text",
-      "version": 26,
-      "versionNonce": 2129744100,
+      "version": 27,
+      "versionNonce": 668708979,
       "isDeleted": false,
       "id": "kFBfDt3EVKbQQxTkR_35I",
       "fillStyle": "hachure",
@@ -404,7 +404,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1701198465535,
+      "updated": 1701200396529,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -415,12 +415,12 @@
       "containerId": null,
       "originalText": "name",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 35,
-      "versionNonce": 540254044,
+      "version": 36,
+      "versionNonce": 424412221,
       "isDeleted": false,
       "id": "dAD4YveRndmCksEopYumL",
       "fillStyle": "hachure",
@@ -445,7 +445,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1701198465537,
+      "updated": 1701200396530,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -456,12 +456,12 @@
       "containerId": null,
       "originalText": "skillset",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 29,
-      "versionNonce": 1709020260,
+      "version": 30,
+      "versionNonce": 1955801619,
       "isDeleted": false,
       "id": "gtvoehiQbjXnP8YxqctoG",
       "fillStyle": "hachure",
@@ -486,7 +486,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1701198465539,
+      "updated": 1701200396530,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -497,7 +497,7 @@
       "containerId": null,
       "originalText": "votes",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -790,8 +790,8 @@
     },
     {
       "type": "text",
-      "version": 72,
-      "versionNonce": 532632540,
+      "version": 73,
+      "versionNonce": 823817373,
       "isDeleted": false,
       "id": "gekFTqll_zCPz_9XNYHnA",
       "fillStyle": "hachure",
@@ -816,7 +816,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1701198465543,
+      "updated": 1701200396531,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -827,7 +827,7 @@
       "containerId": null,
       "originalText": "name\nnickname\nimg url\nbackground\n",
       "lineHeight": 1.25,
-      "baseline": 117
+      "baseline": 118
     },
     {
       "type": "rectangle",
@@ -1267,8 +1267,8 @@
     },
     {
       "type": "text",
-      "version": 301,
-      "versionNonce": 1031104484,
+      "version": 302,
+      "versionNonce": 1533702067,
       "isDeleted": false,
       "id": "WaT59PPWQrc15sC3-hW2u",
       "fillStyle": "hachure",
@@ -1288,7 +1288,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1701198465548,
+      "updated": 1701200396531,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1299,7 +1299,7 @@
       "containerId": null,
       "originalText": "table row (obj) {\n    index = obj.index\n    isDark = index % 2 === 0 ? true : false\n    name = obj.name\n    skills = obj.skills\n    vote = obj.vote\nreturn (\n    <tr class={isDark ? 'light' : 'dark}>\n       <td>{name}</td>\n       <td>{skills}</td>\n       <td>{vote}</td>\n    </tr>\n}\n",
       "lineHeight": 1.25,
-      "baseline": 342
+      "baseline": 343
     },
     {
       "type": "arrow",
@@ -1353,8 +1353,8 @@
     },
     {
       "type": "text",
-      "version": 147,
-      "versionNonce": 216037468,
+      "version": 148,
+      "versionNonce": 981195005,
       "isDeleted": false,
       "id": "JuGAhki0_mMvOoGe1tJCT",
       "fillStyle": "hachure",
@@ -1379,7 +1379,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1701198465553,
+      "updated": 1701200396532,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1390,43 +1390,43 @@
       "containerId": null,
       "originalText": "<div>\n    <div>\n        <h3>name</h3>\n        <h4>nickNane</h4>\n    </div>\n    <img src={imgUrl}/>\n    <p>{background}</p>\n</div>",
       "lineHeight": 1.25,
-      "baseline": 192
+      "baseline": 193
     },
     {
-      "id": "KCj5n4vd2DTvpaB8kKqOW",
       "type": "text",
-      "x": 149.76070549644697,
-      "y": 693.2653704658737,
-      "width": 344.1795959472656,
-      "height": 450,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
+      "version": 1387,
+      "versionNonce": 2123296893,
+      "isDeleted": false,
+      "id": "KCj5n4vd2DTvpaB8kKqOW",
       "fillStyle": "hachure",
       "strokeWidth": 1,
       "strokeStyle": "solid",
       "roughness": 1,
       "opacity": 100,
+      "angle": 0,
+      "x": 149.76070549644697,
+      "y": 693.2653704658737,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 344.1795959472656,
+      "height": 1750,
+      "seed": 350949724,
       "groupIds": [],
       "frameId": null,
       "roundness": null,
-      "seed": 350949724,
-      "version": 309,
-      "versionNonce": 1610098268,
-      "isDeleted": false,
-      "boundElements": null,
-      "updated": 1701198934943,
+      "boundElements": [],
+      "updated": 1701207137697,
       "link": null,
       "locked": false,
-      "text": "Body {\n    display: flex;\n    flex-direction: column;\n    min-height: 100%;\n    align-items: center;\n    background-color: tomato;\n}\nheader {\n    display: flex;\n    width: 100%;\n    justify-content: space-between;\n    align-items: center;\n    height: 80px;\n    background-color: black;\n    color: white;\n}\n\n",
       "fontSize": 20,
       "fontFamily": 1,
+      "text": "Body {\n    display: flex;\n    flex-direction: column;\n    min-height: 100%;\n    align-items: center;\n    background-color: tomato;\n}\nheader {\n    display: flex;\n    width: 100%;\n    justify-content: space-between;\n    align-items: center;\n    height: 80px;\n    background-color: black;\n    color: white;\n}\nheader > nav {\n    display: flex;\n    list-style: none;\n    width: 33%;\n    justify-content: space-around;\n}\nheader > nav > li {\n    padding: 10px;\n    background-color: gray;\n    border-radius: 5px;\n    cursor: pointer;\n    font-size: 10px;\n}\n#character-ratings {\n    width: 90%;\n    min-height: 33vh;\n    background-color: white;\n    border-radius: 5px;\n    margin-top: 20px;\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    padding: 10px;\n}\n#character-ratings h4 {\n font-size: 20px;\n}\ntable {\n    border-radius: 5px;\n    margin-top: 10px;\n    font-family: arial, sans-sarif;\n    border-collapse: collapse;\n    width: 100%;\n}\n#character-cards {\n    width: 90%;\n    min-height: 33vh;\n    border-color: white;\n    border-radius: 5px;\n    margin-top: 20px;\n    display: flex;\n    flex-direction: row;\n    flex-wrap: wrap;\n    align-items: center;\n    justify-content: center;\n    padding: 10px;\n}\n.card {\n    min-height: 250px;\n    width: 200px;\n    border: 3px solid black;\n    border-radius: 5px;\n    margin: 10px;\n}",
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 442,
       "containerId": null,
-      "originalText": "Body {\n    display: flex;\n    flex-direction: column;\n    min-height: 100%;\n    align-items: center;\n    background-color: tomato;\n}\nheader {\n    display: flex;\n    width: 100%;\n    justify-content: space-between;\n    align-items: center;\n    height: 80px;\n    background-color: black;\n    color: white;\n}\n\n",
-      "lineHeight": 1.25
+      "originalText": "Body {\n    display: flex;\n    flex-direction: column;\n    min-height: 100%;\n    align-items: center;\n    background-color: tomato;\n}\nheader {\n    display: flex;\n    width: 100%;\n    justify-content: space-between;\n    align-items: center;\n    height: 80px;\n    background-color: black;\n    color: white;\n}\nheader > nav {\n    display: flex;\n    list-style: none;\n    width: 33%;\n    justify-content: space-around;\n}\nheader > nav > li {\n    padding: 10px;\n    background-color: gray;\n    border-radius: 5px;\n    cursor: pointer;\n    font-size: 10px;\n}\n#character-ratings {\n    width: 90%;\n    min-height: 33vh;\n    background-color: white;\n    border-radius: 5px;\n    margin-top: 20px;\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    padding: 10px;\n}\n#character-ratings h4 {\n font-size: 20px;\n}\ntable {\n    border-radius: 5px;\n    margin-top: 10px;\n    font-family: arial, sans-sarif;\n    border-collapse: collapse;\n    width: 100%;\n}\n#character-cards {\n    width: 90%;\n    min-height: 33vh;\n    border-color: white;\n    border-radius: 5px;\n    margin-top: 20px;\n    display: flex;\n    flex-direction: row;\n    flex-wrap: wrap;\n    align-items: center;\n    justify-content: center;\n    padding: 10px;\n}\n.card {\n    min-height: 250px;\n    width: 200px;\n    border: 3px solid black;\n    border-radius: 5px;\n    margin: 10px;\n}",
+      "lineHeight": 1.25,
+      "baseline": 1743
     }
   ],
   "appState": {
